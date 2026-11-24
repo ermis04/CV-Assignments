@@ -1,5 +1,4 @@
-# Computer Vision projects – Ermis Efthymiou Mouzouras (AM 1100548)
-
+# Computer Vision projects
 Κάθε φάκελος: `assignment/` (εκφώνηση), `report/` (η αναφορά μου), `code/` (κώδικας + δεδομένα).
 
 | # | Project | Γλώσσα / εργαλεία |
