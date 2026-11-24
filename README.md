@@ -16,6 +16,6 @@
 | 11 | Ταξινόμηση προσώπων και φύλου (Bayes) | MATLAB |
 
 ## Σημειώσεις
-- **04:** οι εικόνες COCO `val2017` (~800 MB) δεν περιλαμβάνονται. Για νέο inference κατέβασέ τις από https://cocodataset.org και βάλ' τις στο `code/val2017/`. Τα αποτελέσματα (`*.pth`) και τα annotations υπάρχουν.
+- **04:** οι εικόνες COCO `val2017` (~800 MB) δεν περιλαμβάνονται. Για νέο inference, μπορείτε να τις κατεβάσετε από https://cocodataset.org και βάλτε τις στο `code/val2017/`. Τα αποτελέσματα (`*.pth`) και τα annotations υπάρχουν.
 - **05:** το notebook διαβάζει `./images/...` (πεζά). Σε macOS δουλεύει, σε Linux χρειάζεται μετονομασία του `Images` σε `images`.
 - **04, 03:** τα notebooks γράφτηκαν για Google Colab/Jupyter με PyTorch.
